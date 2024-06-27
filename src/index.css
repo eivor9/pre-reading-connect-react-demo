@@ -73,9 +73,9 @@ article {
 }
 
 article h3 {
-  width: 30%;
+  margin: 50px;
   display: flex;
-  justify-content: space-around;
+  gap: 50px;
 }
 
 td {

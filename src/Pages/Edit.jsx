@@ -1,10 +1,10 @@
-import ColorEditForm from "../Components/ColorEditForm";
+import BookmarkEditForm from "../Components/BookmarkEditForm";
 
 function Edit() {
   return (
     <div className="New Edit">
       <h2>Edit</h2>
-      <ColorEditForm />
+      <BookmarkEditForm />
     </div>
   );
 }

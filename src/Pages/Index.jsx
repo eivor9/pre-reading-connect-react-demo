@@ -1,10 +1,10 @@
-import Colors from "../Components/Colors";
+import Bookmarks from "../Components/Bookmarks";
 
 function Index() {
   return (
     <div className="Index">
       <h2>Index</h2>
-      <Colors />
+      <Bookmarks />
     </div>
   );
 }

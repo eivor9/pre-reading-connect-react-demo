@@ -4,10 +4,10 @@ export default function NavBar() {
   return (
     <nav>
       <h1>
-        <Link to="/colors">Colors</Link>
+        <Link to="/bookmarks">Bookmarks</Link>
       </h1>
       <button>
-        <Link to="/colors/new">New Color</Link>
+        <Link to="/bookmarks/new">New Bookmark</Link>
       </button>
     </nav>
   );
